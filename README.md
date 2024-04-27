@@ -1,2 +1,3 @@
-# smalltools
-mono repo for small tools made for the lulz
+# insights engine
+
+early version
